@@ -92,31 +92,6 @@
     border: 2px solid orange;
 }
 
-/** box4 **/
-
-.nav-flag{
-    height: 2rem;
-    width: 2%;
-    justify-content: center;
-    align-items: center;
-}
-
-.flag-img{
-    background-size: cover;
-    height: 20px;
-    width: 24px; 
-    
-    
-}
-
-.flag-img p{
-    margin-left: 30px;
-    font-size: 16px;
-    margin-top: 5px;
-    
-
-}
-
 
 /** box5 **/
 span{
